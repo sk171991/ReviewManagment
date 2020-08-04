@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MT.OnlineManagement.BusinessEntities\MT.OnlineManagement.BusinessEntities.csproj" />
+    <ProjectReference Include="..\MT.OnlineRestaurant.DataAccessLayer\MT.OnlineRestaurant.DataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>
